@@ -1,0 +1,38 @@
+[
+	{
+		"idBorough_Desc" : 1,
+		"borough_title" : "New York",
+		"borough_subhead" : "ethnic composition of New York",
+		"borough_content" : "The population of New York City in the United States is one of the largest and most cosmopolitan in the world. New York has a population of more than 8 million, making it the most populous city in the country. \nNew York has become a city where there is no majority ethnic group. In 2005, the White population represented 44% of the population. African Americans are the second largest group with 25.3% of the population.\nNew York has one of the largest Asian communities in the country (11.6% of the population), a large part of which resides in Chinatown south of Manhattan. The other New Yorkers are divided into different ethnic groups, or declare themselves to be mixed.\nNew York is also home to the largest Jewish community outside Israel. It is also home to a quarter of all people from South Asia (particularly India) living in the United States and the country's largest African-American community. It is estimated that there are 800,000 Puerto Ricans. Among the populations of European origin, Italians and Irish are among the most numerous and permeate the cultural life of New York.\n\n\n"
+	},
+	{
+		"idBorough_Desc" : 2,
+		"borough_title" : "Manhattan",
+		"borough_subhead" : "ethnic composition of manhattan",
+		"borough_content" : "In 2000, the Manhattan peninsula welcomed a large majority of whites, who gathered in the central and southern part of the district*. At the far south is Chinatown, a district where Asians, especially the Chinese, have gathered. \nThere is also a Hispanic and African American community north of Manhattan.\nIn 2010, the majority of each ethnic group has not moved at all, but there is nevertheless a heterogenization of communities: all populations are living together more and more, except Asians. More than 85% of Chinatown is still made up of people of Asian origin.\nOne of the fairly well known and notable points in Manhattan is the change taking place in Central Harlem. In the same period, the African American community, which was mainly present in these neighbourhoods in 2010, is decreasing in the \"Central Harlem North\" (-5,453) and in the \"Central South Harlem\" (-4,091). The African American population also decreases in Hamilton Heights (-5,366). Here, the departing African-American community is replaced by the White community that reinvests these neighbourhoods. \nIn figures: The white population increased by 58,000 between 2000 and 2010. The Asian community of 34,333 people. In contrast, the Black and Latin populations decline by 29,000 and 14,000, respectively.\n\n\n"
+	},
+	{
+		"idBorough_Desc" : 3,
+		"borough_title" : "Staten island",
+		"borough_subhead" : "ethnic composition of Staten Island",
+		"borough_content" : "It's the district a little off New York City. In 2000, the island was almost entirely white, except in its far north, where a small Black and tiny Hispanic community remained.\nThe Hispanics are expanding a little in 2010, the Black and White Blocks* see themselves less unicommunitarian. The Asian population began to settle after the Hispanics. Most of the ethnic demographic changes are taking place in the north of the island.\nIn figures: Staten Island has grown by 25,000 inhabitants, but there are fewer whites (-16,000). Hispanics are increasing their number with 27,500 more people, followed by Asians. \n\n\n"
+	},
+	{
+		"idBorough_Desc" : 4,
+		"borough_title" : "Queens",
+		"borough_subhead" : "ethnic composition of Queens",
+		"borough_content" : "It is a district in which in 2000, populations mixed by districts, but still have some reluctance to cohabit by Blocks*. White, Asian and Hispanic communities are showing the most pronounced Melting Pot* of that time in the city. But almost all African Americans live together north of John Fitzgerald Kennedy Airport. Whites are found almost everywhere in Queens. The Asian presence is very strong in Flushing, and Hispanic in North Corona.\nIn 2010 there was a major expansion of the community residing in Flushing, the Asians took possession of the surrounding Blocks, as well as the neighbourhoods around Alley Park. The Hispanic population remains almost identical, both in terms of area and homogeneity. It is a similar situation for the Black community, except that the South Jamaica and Baistey Park districts are made up of Blocks that now comprise almost only one community. The White population does the same as these 2 districts: it is less only between itself.\nIn figures: The white population in Queens declines by 116,000 people when Asian population increases by a similar amount (119,000). The Hispanic community also decreased (57,145 people), while the Black community lost 26,950 people.\n"
+	},
+	{
+		"idBorough_Desc" : 5,
+		"borough_title" : "Brooklyn",
+		"borough_subhead" : "ethnic composition of Brooklyn",
+		"borough_content" : "In this neighborhood, most of the inhabitants were African Americans or whites in 2000. Whites are located in the south of the district, and blacks in the center. The Hispanic community is still present on the northern border, adjacent to Queens, as well as a minority around Sunset Park West. The few Asian people in the district live in the South.\nIn 2010, in Brooklyn almost no ethnic group left its place to another.\nDespite some neighborhoods such as \"Borough Park\", which remains almost exclusively \"White\", and to cite another example, \"Rugby Rensen Village\", it was occupied in the same way as before, but by African Americans. We notice that the Asian population has grown, but it's like Chinatown, a population that is not very mixed.\nIn North Brooklyn, in Bedford, the Black population is still predominant in this area.\nIn figures: Brooklyn's population is growing by 39,000 people. Whites earn 38,774 individuals while the Asian community gains 75,838 people. Blacks are almost 50,000 less (-49,517).\n"
+	},
+	{
+		"idBorough_Desc" : 6,
+		"borough_title" : "Bronx",
+		"borough_subhead" : "ethnic composition of Bronx",
+		"borough_content" : "In 2000, the Hispanic population occupied the vast majority of the Bronx, mixing with the African-American population, despite the fact that most of the people of the latter community lived north of the neighborhood between \"Von Gortland-Bronx parks\" and \"Pehlam Bay Park\". Whites do not mix or mix very little. They reside in the northeast and southwest of the Bronx. However, there is almost no Asian presence.\nAs in Manhattan, in 2010, the majority of communities do not move, or only slightly. They are also, as in the case of the almost island, less homogeneous than in 2000 (the Blocks* are no longer made up of a single ethnic group, which is very much present, but the main lines remain the same).\nIn figures: The White population continues to decline in the Bronx, losing 42,000 residents between 2000 and 2010. The size of the African-American population remains the same at about 416,000 people. Asians believe by 8,770 but are outnumbered by Hispanics who see their number increase by almost 100,000 people (96,708).\n"
+	}
+]
